@@ -9,7 +9,7 @@ namespace JWTools
     {
         public MainWindow()
         {
-            InitializeComponent();
+            InitializeComponent();//cvb
         }
     }
 }
